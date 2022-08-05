@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dvdrepetto
 - 👀 I’m interested in FullStack
 - 🌱 I’m currently learning JavaScript, React.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me davidmrepetto@gmail.com
 
 <!---
