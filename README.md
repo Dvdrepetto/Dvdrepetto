@@ -1,4 +1,4 @@
-![imagen](https://media.licdn.com/dms/image/v2/C5616AQEvmotdJPix1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1655909342715?e=1746057600&v=beta&t=i81D8esR7JI77zjTkb5BcPhBYMZejm2pWFDrCstI9sg)
+![imagen](https://media.licdn.com/dms/image/v2/D4D16AQGEG0gBXDHlVA/profile-displaybackgroundimage-shrink_350_1400/B4DZXSNMJ.HIAY-/0/1742988429226?e=1748476800&v=beta&t=RmQUEIxuv7PxENfm9NHgmwjvY9UVHN4knkkulIKAjJc)
 
 - 👋 Hi, I’m @Dvdrepetto.
 - 👀 I’m interested in Full-Stack.
