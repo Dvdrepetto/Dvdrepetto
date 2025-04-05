@@ -45,9 +45,9 @@
 </p>
 
 ### 📊 Hey, here some of my stats on github
- 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dvdrepetto&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvdrepetto&show_icons=true&layout=donut&theme=tokyonight)
+
+ [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dvdrepetto&theme=tokyonight&hide_border=true)](https://github.com/Dvdrepetto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvdrepetto&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Dvdrepetto/github-readme-stats)
 
 
 <!---
