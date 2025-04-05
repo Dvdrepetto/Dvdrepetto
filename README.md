@@ -44,8 +44,10 @@
  <a href="https://github.com/"><img alt="Github" src="https://img.shields.io/badge/GitHub-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
 </p>
 
-(![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dvdrepetto&show_icons=true&theme=tokyonight))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvdrepetto&layout=donut&theme=tokyonight)
+### 📊 Hey, here some of my stats on github
+ 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dvdrepetto&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvdrepetto&show_icons=true&layout=donut&theme=tokyonight)
 
 
 <!---
