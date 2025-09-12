@@ -1,4 +1,4 @@
-![imagen](https://media.licdn.com/dms/image/v2/D4D16AQGEG0gBXDHlVA/profile-displaybackgroundimage-shrink_350_1400/B4DZXSNMJ.HIAY-/0/1742988429226?e=1748476800&v=beta&t=RmQUEIxuv7PxENfm9NHgmwjvY9UVHN4knkkulIKAjJc)
+![imagen]([https://media.licdn.com/dms/image/v2/D4D16AQGEG0gBXDHlVA/profile-displaybackgroundimage-shrink_350_1400/B4DZXSNMJ.HIAY-/0/1742988429226?e=1748476800&v=beta&t=RmQUEIxuv7PxENfm9NHgmwjvY9UVHN4knkkulIKAjJc](https://media.licdn.com/dms/image/v2/D4D16AQGEG0gBXDHlVA/profile-displaybackgroundimage-shrink_350_1400/B4DZXSNMJ.HIAY-/0/1742988429226?e=1760572800&v=beta&t=FrV98A7wUmo5RZcQiLYj_h9QLHs988w1fvSWbdF4jgw))
 
 👋 Hi, I’m @Dvdrepetto, a Full Stack Web Developer based in Marbella, Spain.  
 🌱 Currently, I'm deepening my knowledge of Web Development through hands-on experience with **React, Node.js**, and **MongoDB** in collaborative environments.  
