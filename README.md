@@ -1,4 +1,4 @@
-![imagen]([https://img.freepik.com/foto-gratis/fondo-gradiente-abstracto-efecto-granulado_84443-3116.jpg?t=st=1757674556~exp=1757678156~hmac=fe9c8b17b93ed211a9fe6993a93e80ecce2cf2add89c7a0265cc6a26784ad6b2&w=2000](https://img.freepik.com/vector-gratis/telon-fondo-textura-matriz-codigo-binario-futurista-comunicacion_1017-45495.jpg?semt=ais_hybrid&w=740&q=80))
+![imagen](https://cdn.aarp.net/content/dam/aarp/tourism/national/2017/10/1140-maroon-bells-mountains-north-america-esp.jpg)
 
 👋 Hi, I’m @Dvdrepetto, a Full Stack Web Developer based in Marbella, Spain.  
 🌱 Currently, I'm deepening my knowledge of Web Development through hands-on experience with **React, Node.js**, and **MongoDB** in collaborative environments.  
